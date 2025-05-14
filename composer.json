@@ -1,0 +1,9 @@
+{
+    "require": {
+        "flutterwavedev/flutterwave-v3": "^1.0",
+        "endroid/qr-code": "^5.0",
+        "phpmailer/phpmailer": "^6.9",
+        "mailchimp/marketing": "^3.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
